@@ -1,0 +1,7 @@
+.ourMenu { margin: 50px 0; }
+.menuItem  {
+	box-shadow: 5px 10px 18px;
+	background-color: #FFDDA1; 
+	padding: 10px;
+	margin-bottom: 10px;
+}
